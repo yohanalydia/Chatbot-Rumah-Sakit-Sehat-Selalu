@@ -1,0 +1,242 @@
+[
+  {
+    "dokter_id": "DR001",
+    "nama_dokter": "Dr. Budi",
+    "spesialisasi": "Kardiologi",
+    "departemen_id": "D001"
+  },
+  {
+    "dokter_id": "DR002",
+    "nama_dokter": "Dr. Badu",
+    "spesialisasi": "Neurologi",
+    "departemen_id": "D002"
+  },
+  {
+    "dokter_id": "DR003",
+    "nama_dokter": "Dr. Beduh",
+    "spesialisasi": "Radiologi",
+    "departemen_id": "D003"
+  },
+  {
+    "dokter_id": "DR004",
+    "nama_dokter": "Dr. Sinta",
+    "spesialisasi": "Bedah Umum",
+    "departemen_id": "D004"
+  },
+  {
+    "dokter_id": "DR005",
+    "nama_dokter": "Dr. Rina",
+    "spesialisasi": "Anestesi",
+    "departemen_id": "D005"
+  },
+  {
+    "dokter_id": "DR006",
+    "nama_dokter": "Dr. Dewi",
+    "spesialisasi": "ICU",
+    "departemen_id": "D006"
+  },
+  {
+    "dokter_id": "DR007",
+    "nama_dokter": "Dr. Andi",
+    "spesialisasi": "Rawat Inap",
+    "departemen_id": "D007"
+  },
+  {
+    "dokter_id": "DR008",
+    "nama_dokter": "Dr. Rafi",
+    "spesialisasi": "Rawat Jalan",
+    "departemen_id": "D008"
+  },
+  {
+    "dokter_id": "DR009",
+    "nama_dokter": "Dr. Nina",
+    "spesialisasi": "Patologi Klinik",
+    "departemen_id": "D009"
+  },
+  {
+    "dokter_id": "DR010",
+    "nama_dokter": "Dr. Rizky",
+    "spesialisasi": "Farmasi",
+    "departemen_id": "D010"
+  },
+  {
+    "dokter_id": "DR011",
+    "nama_dokter": "Dr. Tono",
+    "spesialisasi": "Pediatri",
+    "departemen_id": "D011"
+  },
+  {
+    "dokter_id": "DR012",
+    "nama_dokter": "Dr. Laila",
+    "spesialisasi": "Ortopedi",
+    "departemen_id": "D012"
+  },
+  {
+    "dokter_id": "DR013",
+    "nama_dokter": "Dr. Bagas",
+    "spesialisasi": "THT",
+    "departemen_id": "D013"
+  },
+  {
+    "dokter_id": "DR014",
+    "nama_dokter": "Dr. Rani",
+    "spesialisasi": "Mata",
+    "departemen_id": "D014"
+  },
+  {
+    "dokter_id": "DR015",
+    "nama_dokter": "Dr. Dimas",
+    "spesialisasi": "Kulit dan Kelamin",
+    "departemen_id": "D015"
+  },
+  {
+    "dokter_id": "DR016",
+    "nama_dokter": "Dr. Putri",
+    "spesialisasi": "Urologi",
+    "departemen_id": "D016"
+  },
+  {
+    "dokter_id": "DR017",
+    "nama_dokter": "Dr. Yoga",
+    "spesialisasi": "Ginekologi",
+    "departemen_id": "D017"
+  },
+  {
+    "dokter_id": "DR018",
+    "nama_dokter": "Dr. Tari",
+    "spesialisasi": "Onkologi",
+    "departemen_id": "D018"
+  },
+  {
+    "dokter_id": "DR019",
+    "nama_dokter": "Dr. Fajar",
+    "spesialisasi": "Gastroenterologi",
+    "departemen_id": "D019"
+  },
+  {
+    "dokter_id": "DR020",
+    "nama_dokter": "Dr. Citra",
+    "spesialisasi": "Pulmonologi",
+    "departemen_id": "D020"
+  },
+  {
+    "dokter_id": "DR021",
+    "nama_dokter": "Dr. Yuni",
+    "spesialisasi": "Psikiatri",
+    "departemen_id": "D021"
+  },
+  {
+    "dokter_id": "DR022",
+    "nama_dokter": "Dr. Kevin",
+    "spesialisasi": "Rehabilitasi Medik",
+    "departemen_id": "D022"
+  },
+  {
+    "dokter_id": "DR023",
+    "nama_dokter": "Dr. Intan",
+    "spesialisasi": "Gizi Klinik",
+    "departemen_id": "D023"
+  },
+  {
+    "dokter_id": "DR024",
+    "nama_dokter": "Dr. Farah",
+    "spesialisasi": "Hematologi",
+    "departemen_id": "D024"
+  },
+  {
+    "dokter_id": "DR025",
+    "nama_dokter": "Dr. Gilang",
+    "spesialisasi": "Nefrologi",
+    "departemen_id": "D025"
+  },
+  {
+    "dokter_id": "DR026",
+    "nama_dokter": "Dr. Lukman",
+    "spesialisasi": "Endokrinologi",
+    "departemen_id": "D026"
+  },
+  {
+    "dokter_id": "DR027",
+    "nama_dokter": "Dr. Mira",
+    "spesialisasi": "Kedokteran Gigi",
+    "departemen_id": "D027"
+  },
+  {
+    "dokter_id": "DR028",
+    "nama_dokter": "Dr. Nadia",
+    "spesialisasi": "Bedah Saraf",
+    "departemen_id": "D028"
+  },
+  {
+    "dokter_id": "DR029",
+    "nama_dokter": "Dr. Reno",
+    "spesialisasi": "Bedah Toraks",
+    "departemen_id": "D029"
+  },
+  {
+    "dokter_id": "DR030",
+    "nama_dokter": "Dr. Vina",
+    "spesialisasi": "Bedah Plastik",
+    "departemen_id": "D030"
+  },
+  {
+    "dokter_id": "DR031",
+    "nama_dokter": "Dr. Salsa",
+    "spesialisasi": "Forensik",
+    "departemen_id": "D031"
+  },
+  {
+    "dokter_id": "DR032",
+    "nama_dokter": "Dr. Ayu",
+    "spesialisasi": "Kedokteran Nuklir",
+    "departemen_id": "D032"
+  },
+  {
+    "dokter_id": "DR033",
+    "nama_dokter": "Dr. Maya",
+    "spesialisasi": "Infeksi Tropis",
+    "departemen_id": "D033"
+  },
+  {
+    "dokter_id": "DR034",
+    "nama_dokter": "Dr. Raka",
+    "spesialisasi": "Kesehatan Jiwa",
+    "departemen_id": "D034"
+  },
+  {
+    "dokter_id": "DR035",
+    "nama_dokter": "Dr. Riko",
+    "spesialisasi": "Geriatri",
+    "departemen_id": "D035"
+  },
+  {
+    "dokter_id": "DR036",
+    "nama_dokter": "Dr. Hana",
+    "spesialisasi": "Paliatif",
+    "departemen_id": "D036"
+  },
+  {
+    "dokter_id": "DR037",
+    "nama_dokter": "Dr. Anisa",
+    "spesialisasi": "Laboratorium",
+    "departemen_id": "D037"
+  },
+  {
+    "dokter_id": "DR038",
+    "nama_dokter": "Dr. Tiara",
+    "spesialisasi": "Fisioterapi",
+    "departemen_id": "D038"
+  },
+  {
+    "dokter_id": "DR039",
+    "nama_dokter": "Dr. Galih",
+    "spesialisasi": "Hemodialisa",
+    "departemen_id": "D039"
+  },
+  {
+    "dokter_id": "DR040",
+    "nama_dokter": "Dr. Dewo",
+    "spesialisasi": "Trauma Center",
+    "departemen_id": "D040"
+  }
+]

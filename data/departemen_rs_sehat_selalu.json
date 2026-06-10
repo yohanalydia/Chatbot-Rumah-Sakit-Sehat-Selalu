@@ -1,0 +1,162 @@
+[
+  {
+    "departemen_id": "D001",
+    "nama_departemen": "Kardiologi"
+  },
+  {
+    "departemen_id": "D002",
+    "nama_departemen": "Neurologi"
+  },
+  {
+    "departemen_id": "D003",
+    "nama_departemen": "Radiologi"
+  },
+  {
+    "departemen_id": "D004",
+    "nama_departemen": "Bedah Umum"
+  },
+  {
+    "departemen_id": "D005",
+    "nama_departemen": "Anestesi"
+  },
+  {
+    "departemen_id": "D006",
+    "nama_departemen": "ICU"
+  },
+  {
+    "departemen_id": "D007",
+    "nama_departemen": "Rawat Inap"
+  },
+  {
+    "departemen_id": "D008",
+    "nama_departemen": "Rawat Jalan"
+  },
+  {
+    "departemen_id": "D009",
+    "nama_departemen": "Patologi Klinik"
+  },
+  {
+    "departemen_id": "D010",
+    "nama_departemen": "Farmasi"
+  },
+  {
+    "departemen_id": "D011",
+    "nama_departemen": "Pediatri"
+  },
+  {
+    "departemen_id": "D012",
+    "nama_departemen": "Ortopedi"
+  },
+  {
+    "departemen_id": "D013",
+    "nama_departemen": "THT"
+  },
+  {
+    "departemen_id": "D014",
+    "nama_departemen": "Mata"
+  },
+  {
+    "departemen_id": "D015",
+    "nama_departemen": "Kulit dan Kelamin"
+  },
+  {
+    "departemen_id": "D016",
+    "nama_departemen": "Urologi"
+  },
+  {
+    "departemen_id": "D017",
+    "nama_departemen": "Ginekologi"
+  },
+  {
+    "departemen_id": "D018",
+    "nama_departemen": "Onkologi"
+  },
+  {
+    "departemen_id": "D019",
+    "nama_departemen": "Gastroenterologi"
+  },
+  {
+    "departemen_id": "D020",
+    "nama_departemen": "Pulmonologi"
+  },
+  {
+    "departemen_id": "D021",
+    "nama_departemen": "Psikiatri"
+  },
+  {
+    "departemen_id": "D022",
+    "nama_departemen": "Rehabilitasi Medik"
+  },
+  {
+    "departemen_id": "D023",
+    "nama_departemen": "Gizi Klinik"
+  },
+  {
+    "departemen_id": "D024",
+    "nama_departemen": "Hematologi"
+  },
+  {
+    "departemen_id": "D025",
+    "nama_departemen": "Nefrologi"
+  },
+  {
+    "departemen_id": "D026",
+    "nama_departemen": "Endokrinologi"
+  },
+  {
+    "departemen_id": "D027",
+    "nama_departemen": "Kedokteran Gigi"
+  },
+  {
+    "departemen_id": "D028",
+    "nama_departemen": "Bedah Saraf"
+  },
+  {
+    "departemen_id": "D029",
+    "nama_departemen": "Bedah Toraks"
+  },
+  {
+    "departemen_id": "D030",
+    "nama_departemen": "Bedah Plastik"
+  },
+  {
+    "departemen_id": "D031",
+    "nama_departemen": "Forensik"
+  },
+  {
+    "departemen_id": "D032",
+    "nama_departemen": "Kedokteran Nuklir"
+  },
+  {
+    "departemen_id": "D033",
+    "nama_departemen": "Infeksi Tropis"
+  },
+  {
+    "departemen_id": "D034",
+    "nama_departemen": "Kesehatan Jiwa"
+  },
+  {
+    "departemen_id": "D035",
+    "nama_departemen": "Geriatri"
+  },
+  {
+    "departemen_id": "D036",
+    "nama_departemen": "Paliatif"
+  },
+  {
+    "departemen_id": "D037",
+    "nama_departemen": "Laboratorium"
+  },
+  {
+    "departemen_id": "D038",
+    "nama_departemen": "Fisioterapi"
+  },
+  {
+    "departemen_id": "D039",
+    "nama_departemen": "Hemodialisa"
+  },
+  {
+    "departemen_id": "D040",
+    "nama_departemen": "Trauma Center"
+  }
+]

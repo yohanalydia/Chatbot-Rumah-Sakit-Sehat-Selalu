@@ -1,0 +1,362 @@
+[
+  {
+    "tim_id": "T001",
+    "nama_tim": "Tim Gercep",
+    "daftar_dokter": [
+      "DR001",
+      "DR002",
+      "DR003"
+    ]
+  },
+  {
+    "tim_id": "T002",
+    "nama_tim": "Tim Medis 02",
+    "daftar_dokter": [
+      "DR002",
+      "DR003",
+      "DR004"
+    ]
+  },
+  {
+    "tim_id": "T003",
+    "nama_tim": "Tim Medis 03",
+    "daftar_dokter": [
+      "DR003",
+      "DR004",
+      "DR005"
+    ]
+  },
+  {
+    "tim_id": "T004",
+    "nama_tim": "Tim Medis 04",
+    "daftar_dokter": [
+      "DR004",
+      "DR005",
+      "DR006"
+    ]
+  },
+  {
+    "tim_id": "T005",
+    "nama_tim": "Tim Medis 05",
+    "daftar_dokter": [
+      "DR005",
+      "DR006",
+      "DR007"
+    ]
+  },
+  {
+    "tim_id": "T006",
+    "nama_tim": "Tim Medis 06",
+    "daftar_dokter": [
+      "DR006",
+      "DR007",
+      "DR008"
+    ]
+  },
+  {
+    "tim_id": "T007",
+    "nama_tim": "Tim Medis 07",
+    "daftar_dokter": [
+      "DR007",
+      "DR008",
+      "DR009"
+    ]
+  },
+  {
+    "tim_id": "T008",
+    "nama_tim": "Tim Medis 08",
+    "daftar_dokter": [
+      "DR008",
+      "DR009",
+      "DR010"
+    ]
+  },
+  {
+    "tim_id": "T009",
+    "nama_tim": "Tim Medis 09",
+    "daftar_dokter": [
+      "DR009",
+      "DR010",
+      "DR011"
+    ]
+  },
+  {
+    "tim_id": "T010",
+    "nama_tim": "Tim Medis 10",
+    "daftar_dokter": [
+      "DR010",
+      "DR011",
+      "DR012"
+    ]
+  },
+  {
+    "tim_id": "T011",
+    "nama_tim": "Tim Medis 11",
+    "daftar_dokter": [
+      "DR011",
+      "DR012",
+      "DR013"
+    ]
+  },
+  {
+    "tim_id": "T012",
+    "nama_tim": "Tim Medis 12",
+    "daftar_dokter": [
+      "DR012",
+      "DR013",
+      "DR014"
+    ]
+  },
+  {
+    "tim_id": "T013",
+    "nama_tim": "Tim Medis 13",
+    "daftar_dokter": [
+      "DR013",
+      "DR014",
+      "DR015"
+    ]
+  },
+  {
+    "tim_id": "T014",
+    "nama_tim": "Tim Medis 14",
+    "daftar_dokter": [
+      "DR014",
+      "DR015",
+      "DR016"
+    ]
+  },
+  {
+    "tim_id": "T015",
+    "nama_tim": "Tim Medis 15",
+    "daftar_dokter": [
+      "DR015",
+      "DR016",
+      "DR017"
+    ]
+  },
+  {
+    "tim_id": "T016",
+    "nama_tim": "Tim Medis 16",
+    "daftar_dokter": [
+      "DR016",
+      "DR017",
+      "DR018"
+    ]
+  },
+  {
+    "tim_id": "T017",
+    "nama_tim": "Tim Medis 17",
+    "daftar_dokter": [
+      "DR017",
+      "DR018",
+      "DR019"
+    ]
+  },
+  {
+    "tim_id": "T018",
+    "nama_tim": "Tim Medis 18",
+    "daftar_dokter": [
+      "DR018",
+      "DR019",
+      "DR020"
+    ]
+  },
+  {
+    "tim_id": "T019",
+    "nama_tim": "Tim Medis 19",
+    "daftar_dokter": [
+      "DR019",
+      "DR020",
+      "DR021"
+    ]
+  },
+  {
+    "tim_id": "T020",
+    "nama_tim": "Tim Medis 20",
+    "daftar_dokter": [
+      "DR020",
+      "DR021",
+      "DR022"
+    ]
+  },
+  {
+    "tim_id": "T021",
+    "nama_tim": "Tim Medis 21",
+    "daftar_dokter": [
+      "DR021",
+      "DR022",
+      "DR023"
+    ]
+  },
+  {
+    "tim_id": "T022",
+    "nama_tim": "Tim Medis 22",
+    "daftar_dokter": [
+      "DR022",
+      "DR023",
+      "DR024"
+    ]
+  },
+  {
+    "tim_id": "T023",
+    "nama_tim": "Tim Medis 23",
+    "daftar_dokter": [
+      "DR023",
+      "DR024",
+      "DR025"
+    ]
+  },
+  {
+    "tim_id": "T024",
+    "nama_tim": "Tim Medis 24",
+    "daftar_dokter": [
+      "DR024",
+      "DR025",
+      "DR026"
+    ]
+  },
+  {
+    "tim_id": "T025",
+    "nama_tim": "Tim Medis 25",
+    "daftar_dokter": [
+      "DR025",
+      "DR026",
+      "DR027"
+    ]
+  },
+  {
+    "tim_id": "T026",
+    "nama_tim": "Tim Medis 26",
+    "daftar_dokter": [
+      "DR026",
+      "DR027",
+      "DR028"
+    ]
+  },
+  {
+    "tim_id": "T027",
+    "nama_tim": "Tim Medis 27",
+    "daftar_dokter": [
+      "DR027",
+      "DR028",
+      "DR029"
+    ]
+  },
+  {
+    "tim_id": "T028",
+    "nama_tim": "Tim Medis 28",
+    "daftar_dokter": [
+      "DR028",
+      "DR029",
+      "DR030"
+    ]
+  },
+  {
+    "tim_id": "T029",
+    "nama_tim": "Tim Medis 29",
+    "daftar_dokter": [
+      "DR029",
+      "DR030",
+      "DR031"
+    ]
+  },
+  {
+    "tim_id": "T030",
+    "nama_tim": "Tim Medis 30",
+    "daftar_dokter": [
+      "DR030",
+      "DR031",
+      "DR032"
+    ]
+  },
+  {
+    "tim_id": "T031",
+    "nama_tim": "Tim Medis 31",
+    "daftar_dokter": [
+      "DR031",
+      "DR032",
+      "DR033"
+    ]
+  },
+  {
+    "tim_id": "T032",
+    "nama_tim": "Tim Medis 32",
+    "daftar_dokter": [
+      "DR032",
+      "DR033",
+      "DR034"
+    ]
+  },
+  {
+    "tim_id": "T033",
+    "nama_tim": "Tim Medis 33",
+    "daftar_dokter": [
+      "DR033",
+      "DR034",
+      "DR035"
+    ]
+  },
+  {
+    "tim_id": "T034",
+    "nama_tim": "Tim Medis 34",
+    "daftar_dokter": [
+      "DR034",
+      "DR035",
+      "DR036"
+    ]
+  },
+  {
+    "tim_id": "T035",
+    "nama_tim": "Tim Medis 35",
+    "daftar_dokter": [
+      "DR035",
+      "DR036",
+      "DR037"
+    ]
+  },
+  {
+    "tim_id": "T036",
+    "nama_tim": "Tim Medis 36",
+    "daftar_dokter": [
+      "DR036",
+      "DR037",
+      "DR038"
+    ]
+  },
+  {
+    "tim_id": "T037",
+    "nama_tim": "Tim Medis 37",
+    "daftar_dokter": [
+      "DR037",
+      "DR038",
+      "DR039"
+    ]
+  },
+  {
+    "tim_id": "T038",
+    "nama_tim": "Tim Medis 38",
+    "daftar_dokter": [
+      "DR038",
+      "DR039",
+      "DR040"
+    ]
+  },
+  {
+    "tim_id": "T039",
+    "nama_tim": "Tim Medis 39",
+    "daftar_dokter": [
+      "DR039",
+      "DR040",
+      "DR001"
+    ]
+  },
+  {
+    "tim_id": "T040",
+    "nama_tim": "Tim Medis 40",
+    "daftar_dokter": [
+      "DR040",
+      "DR001",
+      "DR002"
+    ]
+  }
+]

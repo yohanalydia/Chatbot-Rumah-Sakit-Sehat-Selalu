@@ -1,0 +1,202 @@
+[
+  {
+    "asuransi_id": "A001",
+    "nama_asuransi": "BPJS Kesehatan 1",
+    "polis": "POL100001"
+  },
+  {
+    "asuransi_id": "A002",
+    "nama_asuransi": "Prudential Health 1",
+    "polis": "POL100002"
+  },
+  {
+    "asuransi_id": "A003",
+    "nama_asuransi": "Allianz Care 1",
+    "polis": "POL100003"
+  },
+  {
+    "asuransi_id": "A004",
+    "nama_asuransi": "AXA Mandiri 1",
+    "polis": "POL100004"
+  },
+  {
+    "asuransi_id": "A005",
+    "nama_asuransi": "SehatSelalu Insurance 1",
+    "polis": "POL100005"
+  },
+  {
+    "asuransi_id": "A006",
+    "nama_asuransi": "Manulife Health 1",
+    "polis": "POL100006"
+  },
+  {
+    "asuransi_id": "A007",
+    "nama_asuransi": "BCA Life Health 1",
+    "polis": "POL100007"
+  },
+  {
+    "asuransi_id": "A008",
+    "nama_asuransi": "Sinarmas Health 1",
+    "polis": "POL100008"
+  },
+  {
+    "asuransi_id": "A009",
+    "nama_asuransi": "Generali Health 1",
+    "polis": "POL100009"
+  },
+  {
+    "asuransi_id": "A010",
+    "nama_asuransi": "AIA Health 1",
+    "polis": "POL100010"
+  },
+  {
+    "asuransi_id": "A011",
+    "nama_asuransi": "BPJS Kesehatan 2",
+    "polis": "POL100011"
+  },
+  {
+    "asuransi_id": "A012",
+    "nama_asuransi": "Prudential Health 2",
+    "polis": "POL100012"
+  },
+  {
+    "asuransi_id": "A013",
+    "nama_asuransi": "Allianz Care 2",
+    "polis": "POL100013"
+  },
+  {
+    "asuransi_id": "A014",
+    "nama_asuransi": "AXA Mandiri 2",
+    "polis": "POL100014"
+  },
+  {
+    "asuransi_id": "A015",
+    "nama_asuransi": "SehatSelalu Insurance 2",
+    "polis": "POL100015"
+  },
+  {
+    "asuransi_id": "A016",
+    "nama_asuransi": "Manulife Health 2",
+    "polis": "POL100016"
+  },
+  {
+    "asuransi_id": "A017",
+    "nama_asuransi": "BCA Life Health 2",
+    "polis": "POL100017"
+  },
+  {
+    "asuransi_id": "A018",
+    "nama_asuransi": "Sinarmas Health 2",
+    "polis": "POL100018"
+  },
+  {
+    "asuransi_id": "A019",
+    "nama_asuransi": "Generali Health 2",
+    "polis": "POL100019"
+  },
+  {
+    "asuransi_id": "A020",
+    "nama_asuransi": "AIA Health 2",
+    "polis": "POL100020"
+  },
+  {
+    "asuransi_id": "A021",
+    "nama_asuransi": "BPJS Kesehatan 3",
+    "polis": "POL100021"
+  },
+  {
+    "asuransi_id": "A022",
+    "nama_asuransi": "Prudential Health 3",
+    "polis": "POL100022"
+  },
+  {
+    "asuransi_id": "A023",
+    "nama_asuransi": "Allianz Care 3",
+    "polis": "POL100023"
+  },
+  {
+    "asuransi_id": "A024",
+    "nama_asuransi": "AXA Mandiri 3",
+    "polis": "POL100024"
+  },
+  {
+    "asuransi_id": "A025",
+    "nama_asuransi": "SehatSelalu Insurance 3",
+    "polis": "POL100025"
+  },
+  {
+    "asuransi_id": "A026",
+    "nama_asuransi": "Manulife Health 3",
+    "polis": "POL100026"
+  },
+  {
+    "asuransi_id": "A027",
+    "nama_asuransi": "BCA Life Health 3",
+    "polis": "POL100027"
+  },
+  {
+    "asuransi_id": "A028",
+    "nama_asuransi": "Sinarmas Health 3",
+    "polis": "POL100028"
+  },
+  {
+    "asuransi_id": "A029",
+    "nama_asuransi": "Generali Health 3",
+    "polis": "POL100029"
+  },
+  {
+    "asuransi_id": "A030",
+    "nama_asuransi": "AIA Health 3",
+    "polis": "POL100030"
+  },
+  {
+    "asuransi_id": "A031",
+    "nama_asuransi": "BPJS Kesehatan 4",
+    "polis": "POL100031"
+  },
+  {
+    "asuransi_id": "A032",
+    "nama_asuransi": "Prudential Health 4",
+    "polis": "POL100032"
+  },
+  {
+    "asuransi_id": "A033",
+    "nama_asuransi": "Allianz Care 4",
+    "polis": "POL100033"
+  },
+  {
+    "asuransi_id": "A034",
+    "nama_asuransi": "AXA Mandiri 4",
+    "polis": "POL100034"
+  },
+  {
+    "asuransi_id": "A035",
+    "nama_asuransi": "SehatSelalu Insurance 4",
+    "polis": "POL100035"
+  },
+  {
+    "asuransi_id": "A036",
+    "nama_asuransi": "Manulife Health 4",
+    "polis": "POL100036"
+  },
+  {
+    "asuransi_id": "A037",
+    "nama_asuransi": "BCA Life Health 4",
+    "polis": "POL100037"
+  },
+  {
+    "asuransi_id": "A038",
+    "nama_asuransi": "Sinarmas Health 4",
+    "polis": "POL100038"
+  },
+  {
+    "asuransi_id": "A039",
+    "nama_asuransi": "Generali Health 4",
+    "polis": "POL100039"
+  },
+  {
+    "asuransi_id": "A040",
+    "nama_asuransi": "AIA Health 4",
+    "polis": "POL100040"
+  }
+]

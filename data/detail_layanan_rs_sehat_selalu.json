@@ -1,0 +1,282 @@
+[
+  {
+    "detail_id": "DL001",
+    "tagihan_id": "TAG001",
+    "jenis_layanan": "Operasi Jantung",
+    "biaya": 600000,
+    "deskripsi": "Layanan Operasi Jantung untuk pasien P001"
+  },
+  {
+    "detail_id": "DL002",
+    "tagihan_id": "TAG002",
+    "jenis_layanan": "MRI Otak",
+    "biaya": 700000,
+    "deskripsi": "Layanan MRI Otak untuk pasien P002"
+  },
+  {
+    "detail_id": "DL003",
+    "tagihan_id": "TAG003",
+    "jenis_layanan": "CT Scan",
+    "biaya": 800000,
+    "deskripsi": "Layanan CT Scan untuk pasien P003"
+  },
+  {
+    "detail_id": "DL004",
+    "tagihan_id": "TAG004",
+    "jenis_layanan": "Rawat ICU",
+    "biaya": 900000,
+    "deskripsi": "Layanan Rawat ICU untuk pasien P004"
+  },
+  {
+    "detail_id": "DL005",
+    "tagihan_id": "TAG005",
+    "jenis_layanan": "Rawat Inap",
+    "biaya": 1000000,
+    "deskripsi": "Layanan Rawat Inap untuk pasien P005"
+  },
+  {
+    "detail_id": "DL006",
+    "tagihan_id": "TAG006",
+    "jenis_layanan": "Konsultasi Dokter",
+    "biaya": 1100000,
+    "deskripsi": "Layanan Konsultasi Dokter untuk pasien P006"
+  },
+  {
+    "detail_id": "DL007",
+    "tagihan_id": "TAG007",
+    "jenis_layanan": "Pemeriksaan Lab",
+    "biaya": 1200000,
+    "deskripsi": "Layanan Pemeriksaan Lab untuk pasien P007"
+  },
+  {
+    "detail_id": "DL008",
+    "tagihan_id": "TAG008",
+    "jenis_layanan": "USG",
+    "biaya": 1300000,
+    "deskripsi": "Layanan USG untuk pasien P008"
+  },
+  {
+    "detail_id": "DL009",
+    "tagihan_id": "TAG009",
+    "jenis_layanan": "Rontgen",
+    "biaya": 1400000,
+    "deskripsi": "Layanan Rontgen untuk pasien P009"
+  },
+  {
+    "detail_id": "DL010",
+    "tagihan_id": "TAG010",
+    "jenis_layanan": "Tindakan Bedah Minor",
+    "biaya": 1500000,
+    "deskripsi": "Layanan Tindakan Bedah Minor untuk pasien P010"
+  },
+  {
+    "detail_id": "DL011",
+    "tagihan_id": "TAG011",
+    "jenis_layanan": "Obat Pulang",
+    "biaya": 1600000,
+    "deskripsi": "Layanan Obat Pulang untuk pasien P011"
+  },
+  {
+    "detail_id": "DL012",
+    "tagihan_id": "TAG012",
+    "jenis_layanan": "Fisioterapi",
+    "biaya": 1700000,
+    "deskripsi": "Layanan Fisioterapi untuk pasien P012"
+  },
+  {
+    "detail_id": "DL013",
+    "tagihan_id": "TAG013",
+    "jenis_layanan": "Hemodialisa",
+    "biaya": 1800000,
+    "deskripsi": "Layanan Hemodialisa untuk pasien P013"
+  },
+  {
+    "detail_id": "DL014",
+    "tagihan_id": "TAG014",
+    "jenis_layanan": "EKG",
+    "biaya": 1900000,
+    "deskripsi": "Layanan EKG untuk pasien P014"
+  },
+  {
+    "detail_id": "DL015",
+    "tagihan_id": "TAG015",
+    "jenis_layanan": "Echocardiography",
+    "biaya": 2000000,
+    "deskripsi": "Layanan Echocardiography untuk pasien P015"
+  },
+  {
+    "detail_id": "DL016",
+    "tagihan_id": "TAG016",
+    "jenis_layanan": "Operasi Jantung",
+    "biaya": 2100000,
+    "deskripsi": "Layanan Operasi Jantung untuk pasien P016"
+  },
+  {
+    "detail_id": "DL017",
+    "tagihan_id": "TAG017",
+    "jenis_layanan": "MRI Otak",
+    "biaya": 2200000,
+    "deskripsi": "Layanan MRI Otak untuk pasien P017"
+  },
+  {
+    "detail_id": "DL018",
+    "tagihan_id": "TAG018",
+    "jenis_layanan": "CT Scan",
+    "biaya": 2300000,
+    "deskripsi": "Layanan CT Scan untuk pasien P018"
+  },
+  {
+    "detail_id": "DL019",
+    "tagihan_id": "TAG019",
+    "jenis_layanan": "Rawat ICU",
+    "biaya": 2400000,
+    "deskripsi": "Layanan Rawat ICU untuk pasien P019"
+  },
+  {
+    "detail_id": "DL020",
+    "tagihan_id": "TAG020",
+    "jenis_layanan": "Rawat Inap",
+    "biaya": 2500000,
+    "deskripsi": "Layanan Rawat Inap untuk pasien P020"
+  },
+  {
+    "detail_id": "DL021",
+    "tagihan_id": "TAG021",
+    "jenis_layanan": "Konsultasi Dokter",
+    "biaya": 2600000,
+    "deskripsi": "Layanan Konsultasi Dokter untuk pasien P021"
+  },
+  {
+    "detail_id": "DL022",
+    "tagihan_id": "TAG022",
+    "jenis_layanan": "Pemeriksaan Lab",
+    "biaya": 2700000,
+    "deskripsi": "Layanan Pemeriksaan Lab untuk pasien P022"
+  },
+  {
+    "detail_id": "DL023",
+    "tagihan_id": "TAG023",
+    "jenis_layanan": "USG",
+    "biaya": 2800000,
+    "deskripsi": "Layanan USG untuk pasien P023"
+  },
+  {
+    "detail_id": "DL024",
+    "tagihan_id": "TAG024",
+    "jenis_layanan": "Rontgen",
+    "biaya": 2900000,
+    "deskripsi": "Layanan Rontgen untuk pasien P024"
+  },
+  {
+    "detail_id": "DL025",
+    "tagihan_id": "TAG025",
+    "jenis_layanan": "Tindakan Bedah Minor",
+    "biaya": 3000000,
+    "deskripsi": "Layanan Tindakan Bedah Minor untuk pasien P025"
+  },
+  {
+    "detail_id": "DL026",
+    "tagihan_id": "TAG026",
+    "jenis_layanan": "Obat Pulang",
+    "biaya": 3100000,
+    "deskripsi": "Layanan Obat Pulang untuk pasien P026"
+  },
+  {
+    "detail_id": "DL027",
+    "tagihan_id": "TAG027",
+    "jenis_layanan": "Fisioterapi",
+    "biaya": 3200000,
+    "deskripsi": "Layanan Fisioterapi untuk pasien P027"
+  },
+  {
+    "detail_id": "DL028",
+    "tagihan_id": "TAG028",
+    "jenis_layanan": "Hemodialisa",
+    "biaya": 3300000,
+    "deskripsi": "Layanan Hemodialisa untuk pasien P028"
+  },
+  {
+    "detail_id": "DL029",
+    "tagihan_id": "TAG029",
+    "jenis_layanan": "EKG",
+    "biaya": 3400000,
+    "deskripsi": "Layanan EKG untuk pasien P029"
+  },
+  {
+    "detail_id": "DL030",
+    "tagihan_id": "TAG030",
+    "jenis_layanan": "Echocardiography",
+    "biaya": 3500000,
+    "deskripsi": "Layanan Echocardiography untuk pasien P030"
+  },
+  {
+    "detail_id": "DL031",
+    "tagihan_id": "TAG031",
+    "jenis_layanan": "Operasi Jantung",
+    "biaya": 3600000,
+    "deskripsi": "Layanan Operasi Jantung untuk pasien P031"
+  },
+  {
+    "detail_id": "DL032",
+    "tagihan_id": "TAG032",
+    "jenis_layanan": "MRI Otak",
+    "biaya": 3700000,
+    "deskripsi": "Layanan MRI Otak untuk pasien P032"
+  },
+  {
+    "detail_id": "DL033",
+    "tagihan_id": "TAG033",
+    "jenis_layanan": "CT Scan",
+    "biaya": 3800000,
+    "deskripsi": "Layanan CT Scan untuk pasien P033"
+  },
+  {
+    "detail_id": "DL034",
+    "tagihan_id": "TAG034",
+    "jenis_layanan": "Rawat ICU",
+    "biaya": 3900000,
+    "deskripsi": "Layanan Rawat ICU untuk pasien P034"
+  },
+  {
+    "detail_id": "DL035",
+    "tagihan_id": "TAG035",
+    "jenis_layanan": "Rawat Inap",
+    "biaya": 4000000,
+    "deskripsi": "Layanan Rawat Inap untuk pasien P035"
+  },
+  {
+    "detail_id": "DL036",
+    "tagihan_id": "TAG036",
+    "jenis_layanan": "Konsultasi Dokter",
+    "biaya": 4100000,
+    "deskripsi": "Layanan Konsultasi Dokter untuk pasien P036"
+  },
+  {
+    "detail_id": "DL037",
+    "tagihan_id": "TAG037",
+    "jenis_layanan": "Pemeriksaan Lab",
+    "biaya": 4200000,
+    "deskripsi": "Layanan Pemeriksaan Lab untuk pasien P037"
+  },
+  {
+    "detail_id": "DL038",
+    "tagihan_id": "TAG038",
+    "jenis_layanan": "USG",
+    "biaya": 4300000,
+    "deskripsi": "Layanan USG untuk pasien P038"
+  },
+  {
+    "detail_id": "DL039",
+    "tagihan_id": "TAG039",
+    "jenis_layanan": "Rontgen",
+    "biaya": 4400000,
+    "deskripsi": "Layanan Rontgen untuk pasien P039"
+  },
+  {
+    "detail_id": "DL040",
+    "tagihan_id": "TAG040",
+    "jenis_layanan": "Tindakan Bedah Minor",
+    "biaya": 4500000,
+    "deskripsi": "Layanan Tindakan Bedah Minor untuk pasien P040"
+  }
+]

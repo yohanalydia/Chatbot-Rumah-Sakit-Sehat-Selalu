@@ -1,0 +1,75 @@
+// asuransi_rs_sehat_selalu.json
+{
+    "asuransi_id": "A001",
+    "nama_asuransi": "BPJS Kesehatan 1",
+    "polis": "POL100001"
+  }
+
+// bukti_pembayaran_rs_sehat_selalu.json
+{
+    "bukti_id": "BP001",
+    "pembayaran_id": "BYR001",
+    "nomor_bukti": "INV-0001",
+    "tanggal_terbit": "2026-03-01T11:15:00Z"
+  }
+// departemen_rs_sehat_selalu.json
+{
+    "departemen_id": "D001",
+    "nama_departemen": "Kardiologi"
+  }
+// detail_layanan_rs_sehat_selalu.json
+{
+    "detail_id": "DL001",
+    "tagihan_id": "TAG001",
+    "jenis_layanan": "Operasi Jantung",
+    "biaya": 600000,
+    "deskripsi": "Layanan Operasi Jantung untuk pasien P001"
+  }
+// dokter_rs_sehat_selalu.json
+{
+    "dokter_id": "DR001",
+    "nama_dokter": "Dr. Budi",
+    "spesialisasi": "Kardiologi",
+    "departemen_id": "D001"
+  }
+// pasien_rs_sehat_selalu.json
+{
+    "pasien_id": "P001",
+    "nama_pasien": "Mr. VIP",
+    "vip_status": true,
+    "pj_id": "PJ001",
+    "asuransi_id": "A001",
+    "tim_id": "T001"
+  }
+// pembayaran_rs_sehat_selalu.json
+{
+    "pembayaran_id": "BYR001",
+    "tagihan_id": "TAG001",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 1750000,
+    "tanggal_pembayaran": "2026-03-01T10:00:00Z"
+  }
+// penanggung_jawab_rs_sehat_selalu.json
+{
+    "pj_id": "PJ001",
+    "nama_pj": "Ibu Sari",
+    "hubungan": "Orangtua"
+  }
+// tagihan_rs_sehat_selalu.json
+{
+        "tagihan_id": "TAG001",
+        "pasien_id": "P001",
+        "total_biaya": 1750000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A001"
+    }
+// tim_medis_rs_sehat_selalu.json
+{
+    "tim_id": "T001",
+    "nama_tim": "Tim Gercep",
+    "daftar_dokter": [
+      "DR001",
+      "DR002",
+      "DR003"
+    ]
+  }

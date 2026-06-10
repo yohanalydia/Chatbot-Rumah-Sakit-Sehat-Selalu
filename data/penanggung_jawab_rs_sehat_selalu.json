@@ -1,0 +1,202 @@
+[
+  {
+    "pj_id": "PJ001",
+    "nama_pj": "Ibu Sari",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ002",
+    "nama_pj": "Bapak Joko",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ003",
+    "nama_pj": "Ibu Lina",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ004",
+    "nama_pj": "Bapak Rudi",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ005",
+    "nama_pj": "Ibu Maya",
+    "hubungan": "Saudara Kandung"
+  },
+  {
+    "pj_id": "PJ006",
+    "nama_pj": "Bapak Andri",
+    "hubungan": "Paman"
+  },
+  {
+    "pj_id": "PJ007",
+    "nama_pj": "Ibu Rina",
+    "hubungan": "Bibi"
+  },
+  {
+    "pj_id": "PJ008",
+    "nama_pj": "Bapak Tono",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ009",
+    "nama_pj": "Ibu Dewi",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ010",
+    "nama_pj": "Bapak Hendra",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ011",
+    "nama_pj": "Ibu Fitri",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ012",
+    "nama_pj": "Bapak Bambang",
+    "hubungan": "Saudara Kandung"
+  },
+  {
+    "pj_id": "PJ013",
+    "nama_pj": "Ibu Yanti",
+    "hubungan": "Paman"
+  },
+  {
+    "pj_id": "PJ014",
+    "nama_pj": "Bapak Agus",
+    "hubungan": "Bibi"
+  },
+  {
+    "pj_id": "PJ015",
+    "nama_pj": "Ibu Nita",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ016",
+    "nama_pj": "Bapak Dedi",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ017",
+    "nama_pj": "Ibu Tika",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ018",
+    "nama_pj": "Bapak Irfan",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ019",
+    "nama_pj": "Ibu Reni",
+    "hubungan": "Saudara Kandung"
+  },
+  {
+    "pj_id": "PJ020",
+    "nama_pj": "Bapak Arif",
+    "hubungan": "Paman"
+  },
+  {
+    "pj_id": "PJ021",
+    "nama_pj": "Ibu Wulan",
+    "hubungan": "Bibi"
+  },
+  {
+    "pj_id": "PJ022",
+    "nama_pj": "Bapak Fikri",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ023",
+    "nama_pj": "Ibu Siska",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ024",
+    "nama_pj": "Bapak Yusuf",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ025",
+    "nama_pj": "Ibu Ana",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ026",
+    "nama_pj": "Bapak Dimas",
+    "hubungan": "Saudara Kandung"
+  },
+  {
+    "pj_id": "PJ027",
+    "nama_pj": "Ibu Heni",
+    "hubungan": "Paman"
+  },
+  {
+    "pj_id": "PJ028",
+    "nama_pj": "Bapak Zain",
+    "hubungan": "Bibi"
+  },
+  {
+    "pj_id": "PJ029",
+    "nama_pj": "Ibu Nani",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ030",
+    "nama_pj": "Bapak Rico",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ031",
+    "nama_pj": "Ibu Tati",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ032",
+    "nama_pj": "Bapak Reza",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ033",
+    "nama_pj": "Ibu Elsa",
+    "hubungan": "Saudara Kandung"
+  },
+  {
+    "pj_id": "PJ034",
+    "nama_pj": "Bapak Bimo",
+    "hubungan": "Paman"
+  },
+  {
+    "pj_id": "PJ035",
+    "nama_pj": "Ibu Mutia",
+    "hubungan": "Bibi"
+  },
+  {
+    "pj_id": "PJ036",
+    "nama_pj": "Bapak Hari",
+    "hubungan": "Orangtua"
+  },
+  {
+    "pj_id": "PJ037",
+    "nama_pj": "Ibu Rika",
+    "hubungan": "Suami"
+  },
+  {
+    "pj_id": "PJ038",
+    "nama_pj": "Bapak Yogi",
+    "hubungan": "Istri"
+  },
+  {
+    "pj_id": "PJ039",
+    "nama_pj": "Ibu Selvi",
+    "hubungan": "Anak"
+  },
+  {
+    "pj_id": "PJ040",
+    "nama_pj": "Bapak Bayu",
+    "hubungan": "Saudara Kandung"
+  }
+]

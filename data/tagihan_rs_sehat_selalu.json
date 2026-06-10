@@ -1,0 +1,282 @@
+[
+    {
+        "tagihan_id": "TAG001",
+        "pasien_id": "P001",
+        "total_biaya": 1750000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A001"
+    },
+    {
+        "tagihan_id": "TAG002",
+        "pasien_id": "P002",
+        "total_biaya": 2000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A002"
+    },
+    {
+        "tagihan_id": "TAG003",
+        "pasien_id": "P003",
+        "total_biaya": 2250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG004",
+        "pasien_id": "P004",
+        "total_biaya": 2500000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A004"
+    },
+    {
+        "tagihan_id": "TAG005",
+        "pasien_id": "P005",
+        "total_biaya": 2750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A005"
+    },
+    {
+        "tagihan_id": "TAG006",
+        "pasien_id": "P006",
+        "total_biaya": 3000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG007",
+        "pasien_id": "P007",
+        "total_biaya": 3250000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A007"
+    },
+    {
+        "tagihan_id": "TAG008",
+        "pasien_id": "P008",
+        "total_biaya": 3500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A008"
+    },
+    {
+        "tagihan_id": "TAG009",
+        "pasien_id": "P009",
+        "total_biaya": 3750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG010",
+        "pasien_id": "P010",
+        "total_biaya": 4000000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A010"
+    },
+    {
+        "tagihan_id": "TAG011",
+        "pasien_id": "P011",
+        "total_biaya": 4250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A011"
+    },
+    {
+        "tagihan_id": "TAG012",
+        "pasien_id": "P012",
+        "total_biaya": 4500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG013",
+        "pasien_id": "P013",
+        "total_biaya": 4750000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A013"
+    },
+    {
+        "tagihan_id": "TAG014",
+        "pasien_id": "P014",
+        "total_biaya": 5000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A014"
+    },
+    {
+        "tagihan_id": "TAG015",
+        "pasien_id": "P015",
+        "total_biaya": 5250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG016",
+        "pasien_id": "P016",
+        "total_biaya": 5500000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A016"
+    },
+    {
+        "tagihan_id": "TAG017",
+        "pasien_id": "P017",
+        "total_biaya": 5750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A017"
+    },
+    {
+        "tagihan_id": "TAG018",
+        "pasien_id": "P018",
+        "total_biaya": 6000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG019",
+        "pasien_id": "P019",
+        "total_biaya": 6250000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A019"
+    },
+    {
+        "tagihan_id": "TAG020",
+        "pasien_id": "P020",
+        "total_biaya": 6500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A020"
+    },
+    {
+        "tagihan_id": "TAG021",
+        "pasien_id": "P021",
+        "total_biaya": 6750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG022",
+        "pasien_id": "P022",
+        "total_biaya": 7000000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A022"
+    },
+    {
+        "tagihan_id": "TAG023",
+        "pasien_id": "P023",
+        "total_biaya": 7250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A023"
+    },
+    {
+        "tagihan_id": "TAG024",
+        "pasien_id": "P024",
+        "total_biaya": 7500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG025",
+        "pasien_id": "P025",
+        "total_biaya": 7750000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A025"
+    },
+    {
+        "tagihan_id": "TAG026",
+        "pasien_id": "P026",
+        "total_biaya": 8000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A026"
+    },
+    {
+        "tagihan_id": "TAG027",
+        "pasien_id": "P027",
+        "total_biaya": 8250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG028",
+        "pasien_id": "P028",
+        "total_biaya": 8500000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A028"
+    },
+    {
+        "tagihan_id": "TAG029",
+        "pasien_id": "P029",
+        "total_biaya": 8750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A029"
+    },
+    {
+        "tagihan_id": "TAG030",
+        "pasien_id": "P030",
+        "total_biaya": 9000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG031",
+        "pasien_id": "P031",
+        "total_biaya": 9250000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A031"
+    },
+    {
+        "tagihan_id": "TAG032",
+        "pasien_id": "P032",
+        "total_biaya": 9500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A032"
+    },
+    {
+        "tagihan_id": "TAG033",
+        "pasien_id": "P033",
+        "total_biaya": 9750000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG034",
+        "pasien_id": "P034",
+        "total_biaya": 10000000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A034"
+    },
+    {
+        "tagihan_id": "TAG035",
+        "pasien_id": "P035",
+        "total_biaya": 10250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A035"
+    },
+    {
+        "tagihan_id": "TAG036",
+        "pasien_id": "P036",
+        "total_biaya": 10500000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG037",
+        "pasien_id": "P037",
+        "total_biaya": 10750000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A037"
+    },
+    {
+        "tagihan_id": "TAG038",
+        "pasien_id": "P038",
+        "total_biaya": 11000000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": "A038"
+    },
+    {
+        "tagihan_id": "TAG039",
+        "pasien_id": "P039",
+        "total_biaya": 11250000,
+        "status_pembayaran": "Belum Lunas",
+        "asuransi_id": null
+    },
+    {
+        "tagihan_id": "TAG040",
+        "pasien_id": "P040",
+        "total_biaya": 11500000,
+        "status_pembayaran": "Lunas",
+        "asuransi_id": "A040"
+    }
+]

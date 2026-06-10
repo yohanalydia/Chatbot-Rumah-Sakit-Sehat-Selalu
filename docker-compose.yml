@@ -1,0 +1,17 @@
+services:
+    opensearch:
+        image: opensearchproject/opensearch:2.19.0
+        container_name: opensearch
+
+        environment:
+            - discovery.type=single-node
+            - OPENSEARCH_INITIAL_ADMIN_PASSWORD=YOUR_OPENSEARCH_PASSWORD # Sesuaikan password yang diinginkan
+
+        ports:
+            - "9200:9200"
+            - "9600:9600"
+        volumes:
+            - opensearch-data:/usr/share/opensearch/data
+
+volumes:
+    opensearch-data:

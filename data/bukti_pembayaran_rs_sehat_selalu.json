@@ -1,0 +1,242 @@
+[
+  {
+    "bukti_id": "BP001",
+    "pembayaran_id": "BYR001",
+    "nomor_bukti": "INV-0001",
+    "tanggal_terbit": "2026-03-01T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP002",
+    "pembayaran_id": "BYR002",
+    "nomor_bukti": "INV-0002",
+    "tanggal_terbit": "2026-03-02T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP003",
+    "pembayaran_id": "BYR003",
+    "nomor_bukti": "INV-0003",
+    "tanggal_terbit": "2026-03-03T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP004",
+    "pembayaran_id": "BYR004",
+    "nomor_bukti": "INV-0004",
+    "tanggal_terbit": "2026-03-04T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP005",
+    "pembayaran_id": "BYR005",
+    "nomor_bukti": "INV-0005",
+    "tanggal_terbit": "2026-03-05T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP006",
+    "pembayaran_id": "BYR006",
+    "nomor_bukti": "INV-0006",
+    "tanggal_terbit": "2026-03-06T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP007",
+    "pembayaran_id": "BYR007",
+    "nomor_bukti": "INV-0007",
+    "tanggal_terbit": "2026-03-07T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP008",
+    "pembayaran_id": "BYR008",
+    "nomor_bukti": "INV-0008",
+    "tanggal_terbit": "2026-03-08T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP009",
+    "pembayaran_id": "BYR009",
+    "nomor_bukti": "INV-0009",
+    "tanggal_terbit": "2026-03-09T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP010",
+    "pembayaran_id": "BYR010",
+    "nomor_bukti": "INV-0010",
+    "tanggal_terbit": "2026-03-10T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP011",
+    "pembayaran_id": "BYR011",
+    "nomor_bukti": "INV-0011",
+    "tanggal_terbit": "2026-03-11T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP012",
+    "pembayaran_id": "BYR012",
+    "nomor_bukti": "INV-0012",
+    "tanggal_terbit": "2026-03-12T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP013",
+    "pembayaran_id": "BYR013",
+    "nomor_bukti": "INV-0013",
+    "tanggal_terbit": "2026-03-13T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP014",
+    "pembayaran_id": "BYR014",
+    "nomor_bukti": "INV-0014",
+    "tanggal_terbit": "2026-03-14T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP015",
+    "pembayaran_id": "BYR015",
+    "nomor_bukti": "INV-0015",
+    "tanggal_terbit": "2026-03-15T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP016",
+    "pembayaran_id": "BYR016",
+    "nomor_bukti": "INV-0016",
+    "tanggal_terbit": "2026-03-16T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP017",
+    "pembayaran_id": "BYR017",
+    "nomor_bukti": "INV-0017",
+    "tanggal_terbit": "2026-03-17T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP018",
+    "pembayaran_id": "BYR018",
+    "nomor_bukti": "INV-0018",
+    "tanggal_terbit": "2026-03-18T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP019",
+    "pembayaran_id": "BYR019",
+    "nomor_bukti": "INV-0019",
+    "tanggal_terbit": "2026-03-19T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP020",
+    "pembayaran_id": "BYR020",
+    "nomor_bukti": "INV-0020",
+    "tanggal_terbit": "2026-03-20T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP021",
+    "pembayaran_id": "BYR021",
+    "nomor_bukti": "INV-0021",
+    "tanggal_terbit": "2026-03-21T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP022",
+    "pembayaran_id": "BYR022",
+    "nomor_bukti": "INV-0022",
+    "tanggal_terbit": "2026-03-22T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP023",
+    "pembayaran_id": "BYR023",
+    "nomor_bukti": "INV-0023",
+    "tanggal_terbit": "2026-03-23T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP024",
+    "pembayaran_id": "BYR024",
+    "nomor_bukti": "INV-0024",
+    "tanggal_terbit": "2026-03-24T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP025",
+    "pembayaran_id": "BYR025",
+    "nomor_bukti": "INV-0025",
+    "tanggal_terbit": "2026-03-25T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP026",
+    "pembayaran_id": "BYR026",
+    "nomor_bukti": "INV-0026",
+    "tanggal_terbit": "2026-03-26T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP027",
+    "pembayaran_id": "BYR027",
+    "nomor_bukti": "INV-0027",
+    "tanggal_terbit": "2026-03-27T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP028",
+    "pembayaran_id": "BYR028",
+    "nomor_bukti": "INV-0028",
+    "tanggal_terbit": "2026-03-28T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP029",
+    "pembayaran_id": "BYR029",
+    "nomor_bukti": "INV-0029",
+    "tanggal_terbit": "2026-03-01T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP030",
+    "pembayaran_id": "BYR030",
+    "nomor_bukti": "INV-0030",
+    "tanggal_terbit": "2026-03-02T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP031",
+    "pembayaran_id": "BYR031",
+    "nomor_bukti": "INV-0031",
+    "tanggal_terbit": "2026-03-03T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP032",
+    "pembayaran_id": "BYR032",
+    "nomor_bukti": "INV-0032",
+    "tanggal_terbit": "2026-03-04T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP033",
+    "pembayaran_id": "BYR033",
+    "nomor_bukti": "INV-0033",
+    "tanggal_terbit": "2026-03-05T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP034",
+    "pembayaran_id": "BYR034",
+    "nomor_bukti": "INV-0034",
+    "tanggal_terbit": "2026-03-06T14:15:00Z"
+  },
+  {
+    "bukti_id": "BP035",
+    "pembayaran_id": "BYR035",
+    "nomor_bukti": "INV-0035",
+    "tanggal_terbit": "2026-03-07T15:15:00Z"
+  },
+  {
+    "bukti_id": "BP036",
+    "pembayaran_id": "BYR036",
+    "nomor_bukti": "INV-0036",
+    "tanggal_terbit": "2026-03-08T10:15:00Z"
+  },
+  {
+    "bukti_id": "BP037",
+    "pembayaran_id": "BYR037",
+    "nomor_bukti": "INV-0037",
+    "tanggal_terbit": "2026-03-09T11:15:00Z"
+  },
+  {
+    "bukti_id": "BP038",
+    "pembayaran_id": "BYR038",
+    "nomor_bukti": "INV-0038",
+    "tanggal_terbit": "2026-03-10T12:15:00Z"
+  },
+  {
+    "bukti_id": "BP039",
+    "pembayaran_id": "BYR039",
+    "nomor_bukti": "INV-0039",
+    "tanggal_terbit": "2026-03-11T13:15:00Z"
+  },
+  {
+    "bukti_id": "BP040",
+    "pembayaran_id": "BYR040",
+    "nomor_bukti": "INV-0040",
+    "tanggal_terbit": "2026-03-12T14:15:00Z"
+  }
+]

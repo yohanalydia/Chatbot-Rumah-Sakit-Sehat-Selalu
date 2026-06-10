@@ -1,0 +1,282 @@
+[
+  {
+    "pembayaran_id": "BYR001",
+    "tagihan_id": "TAG001",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 1750000,
+    "tanggal_pembayaran": "2026-03-01T10:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR002",
+    "tagihan_id": "TAG002",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 600000,
+    "tanggal_pembayaran": "2026-03-02T11:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR003",
+    "tagihan_id": "TAG003",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 1350000,
+    "tanggal_pembayaran": "2026-03-03T12:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR004",
+    "tagihan_id": "TAG004",
+    "metode_pembayaran": "Asuransi",
+    "jumlah_dibayar": 2500000,
+    "tanggal_pembayaran": "2026-03-04T13:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR005",
+    "tagihan_id": "TAG005",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 825000,
+    "tanggal_pembayaran": "2026-03-05T14:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR006",
+    "tagihan_id": "TAG006",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 1800000,
+    "tanggal_pembayaran": "2026-03-06T15:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR007",
+    "tagihan_id": "TAG007",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 3250000,
+    "tanggal_pembayaran": "2026-03-07T16:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR008",
+    "tagihan_id": "TAG008",
+    "metode_pembayaran": "Kartu Kredit",
+    "jumlah_dibayar": 1050000,
+    "tanggal_pembayaran": "2026-03-08T09:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR009",
+    "tagihan_id": "TAG009",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 2250000,
+    "tanggal_pembayaran": "2026-03-09T10:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR010",
+    "tagihan_id": "TAG010",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 4000000,
+    "tanggal_pembayaran": "2026-03-10T11:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR011",
+    "tagihan_id": "TAG011",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 1275000,
+    "tanggal_pembayaran": "2026-03-11T12:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR012",
+    "tagihan_id": "TAG012",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 2700000,
+    "tanggal_pembayaran": "2026-03-12T13:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR013",
+    "tagihan_id": "TAG013",
+    "metode_pembayaran": "Kartu Kredit",
+    "jumlah_dibayar": 4750000,
+    "tanggal_pembayaran": "2026-03-13T14:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR014",
+    "tagihan_id": "TAG014",
+    "metode_pembayaran": "Asuransi",
+    "jumlah_dibayar": 1500000,
+    "tanggal_pembayaran": "2026-03-14T15:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR015",
+    "tagihan_id": "TAG015",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 3150000,
+    "tanggal_pembayaran": "2026-03-15T16:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR016",
+    "tagihan_id": "TAG016",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 5500000,
+    "tanggal_pembayaran": "2026-03-16T09:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR017",
+    "tagihan_id": "TAG017",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 1725000,
+    "tanggal_pembayaran": "2026-03-17T10:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR018",
+    "tagihan_id": "TAG018",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 3600000,
+    "tanggal_pembayaran": "2026-03-18T11:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR019",
+    "tagihan_id": "TAG019",
+    "metode_pembayaran": "Asuransi",
+    "jumlah_dibayar": 6250000,
+    "tanggal_pembayaran": "2026-03-19T12:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR020",
+    "tagihan_id": "TAG020",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 1950000,
+    "tanggal_pembayaran": "2026-03-20T13:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR021",
+    "tagihan_id": "TAG021",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 4050000,
+    "tanggal_pembayaran": "2026-03-21T14:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR022",
+    "tagihan_id": "TAG022",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 7000000,
+    "tanggal_pembayaran": "2026-03-22T15:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR023",
+    "tagihan_id": "TAG023",
+    "metode_pembayaran": "Kartu Kredit",
+    "jumlah_dibayar": 2175000,
+    "tanggal_pembayaran": "2026-03-23T16:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR024",
+    "tagihan_id": "TAG024",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 4500000,
+    "tanggal_pembayaran": "2026-03-24T09:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR025",
+    "tagihan_id": "TAG025",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 7750000,
+    "tanggal_pembayaran": "2026-03-25T10:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR026",
+    "tagihan_id": "TAG026",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 2400000,
+    "tanggal_pembayaran": "2026-03-26T11:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR027",
+    "tagihan_id": "TAG027",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 4950000,
+    "tanggal_pembayaran": "2026-03-27T12:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR028",
+    "tagihan_id": "TAG028",
+    "metode_pembayaran": "Kartu Kredit",
+    "jumlah_dibayar": 8500000,
+    "tanggal_pembayaran": "2026-03-28T13:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR029",
+    "tagihan_id": "TAG029",
+    "metode_pembayaran": "Asuransi",
+    "jumlah_dibayar": 2625000,
+    "tanggal_pembayaran": "2026-03-01T14:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR030",
+    "tagihan_id": "TAG030",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 5400000,
+    "tanggal_pembayaran": "2026-03-02T15:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR031",
+    "tagihan_id": "TAG031",
+    "metode_pembayaran": "Tunai",
+    "jumlah_dibayar": 9250000,
+    "tanggal_pembayaran": "2026-03-03T16:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR032",
+    "tagihan_id": "TAG032",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 2850000,
+    "tanggal_pembayaran": "2026-03-04T09:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR033",
+    "tagihan_id": "TAG033",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 5850000,
+    "tanggal_pembayaran": "2026-03-05T10:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR034",
+    "tagihan_id": "TAG034",
+    "metode_pembayaran": "Asuransi",
+    "jumlah_dibayar": 10000000,
+    "tanggal_pembayaran": "2026-03-06T11:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR035",
+    "tagihan_id": "TAG035",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 3075000,
+    "tanggal_pembayaran": "2026-03-07T12:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR036",
+    "tagihan_id": "TAG036",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 6300000,
+    "tanggal_pembayaran": "2026-03-08T13:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR037",
+    "tagihan_id": "TAG037",
+    "metode_pembayaran": "Kartu Debit",
+    "jumlah_dibayar": 10750000,
+    "tanggal_pembayaran": "2026-03-09T14:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR038",
+    "tagihan_id": "TAG038",
+    "metode_pembayaran": "Kartu Kredit",
+    "jumlah_dibayar": 3300000,
+    "tanggal_pembayaran": "2026-03-10T15:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR039",
+    "tagihan_id": "TAG039",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 6750000,
+    "tanggal_pembayaran": "2026-03-11T16:00:00Z"
+  },
+  {
+    "pembayaran_id": "BYR040",
+    "tagihan_id": "TAG040",
+    "metode_pembayaran": "Asuransi + Tunai",
+    "jumlah_dibayar": 11500000,
+    "tanggal_pembayaran": "2026-03-12T09:00:00Z"
+  }
+]
