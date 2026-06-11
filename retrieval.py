@@ -50,22 +50,95 @@ def connect_opensearch():
 # ==================================
 # Vector Search
 # ==================================
+import re
+def search_documents(client, question, top_k=10):
+    question = question.strip()
 
-def search_documents(
-    client,
-    question,
-    top_k=10
-):
-    """
-    Melakukan pencarian vector similarity
-    ke OpenSearch.
-    """
-    question = question.lower()
-    query_embedding = model.encode(
-        question
-    ).tolist()
+    # Menangkap ID seperti A002, P001, DR001, TAG001, dan lainnya.
+    entity_ids = re.findall(
+        r"\b(?:TAG|BYR|PJ|DR|BP|DL|A|P|D|T)\d{3}\b",
+        question.upper(),
+    )
 
-    response = client.search(
+    collected_hits = []
+    seen = set()
+
+    def add_hits(hits):
+        for hit in hits:
+            source = hit["_source"]
+            key = (
+                source.get("doc_type"),
+                source.get("source_id"),
+                source.get("content"),
+            )
+
+            if key not in seen:
+                seen.add(key)
+                collected_hits.append(hit)
+
+    # 1. Prioritaskan pencarian ID exact.
+    if entity_ids:
+        exact_clauses = []
+
+        for entity_id in entity_ids:
+            exact_clauses.extend(
+                [
+                    {
+                        "term": {
+                            "source_id": {
+                                "value": entity_id,
+                                "boost": 20,
+                            }
+                        }
+                    },
+                    {
+                        "match_phrase": {
+                            "content": {
+                                "query": entity_id,
+                                "boost": 8,
+                            }
+                        }
+                    },
+                ]
+            )
+
+        exact_response = client.search(
+            index=INDEX_NAME,
+            body={
+                "size": top_k,
+                "query": {
+                    "bool": {
+                        "should": exact_clauses,
+                        "minimum_should_match": 1,
+                    }
+                },
+            },
+        )
+
+        add_hits(exact_response["hits"]["hits"])
+
+    # 2. Cari berdasarkan kata/nama menggunakan BM25.
+    lexical_response = client.search(
+        index=INDEX_NAME,
+        body={
+            "size": top_k,
+            "query": {
+                "match": {
+                    "content": {
+                        "query": question,
+                        "operator": "or",
+                    }
+                }
+            },
+        },
+    )
+
+    add_hits(lexical_response["hits"]["hits"])
+
+    # 3. Lengkapi dengan semantic vector search.
+    query_embedding = model.encode(question.lower()).tolist()
+
+    vector_response = client.search(
         index=INDEX_NAME,
         body={
             "size": top_k,
@@ -73,40 +146,32 @@ def search_documents(
                 "knn": {
                     "embedding": {
                         "vector": query_embedding,
-                        "k": top_k
+                        "k": top_k,
                     }
                 }
-            }
-        }
+            },
+        },
     )
 
-    return response["hits"]["hits"]
+    add_hits(vector_response["hits"]["hits"])
+
+    return collected_hits[:top_k]
 
 # ==================================
 # Retrieve Context
 # ==================================
-def retrieve_context(
-    question,
-    top_k=10
-):
-
+def retrieve_context(question, top_k=10):
     client = connect_opensearch()
 
-    results = search_documents(
-        client,
-        question,
-        top_k
-    )
+    try:
+        results = search_documents(client, question, top_k)
 
-    contexts = []
-
-    for hit in results:
-
-        contexts.append(
+        return [
             hit["_source"]["content"]
-        )
-
-    return contexts
+            for hit in results
+        ]
+    finally:
+        client.close()
 
 # ==================================
 # Main
