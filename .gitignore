@@ -1,17 +1,23 @@
+# Python
 __pycache__/
 *.pyc
 
+# Virtual Environment
 venv/
-.venv/
+.env/
 
-.vscode/
-.idea/
+# Config
+config.py
 
-.env
+# Docker
+docker-compose.yml
 
+# Hugging Face Cache
 .cache/
 
-.ipynb_checkpoints/
+# Streamlit
+.streamlit/
 
-DS_Store
+# OS
+.DS_Store
 Thumbs.db

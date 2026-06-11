@@ -1,4 +1,4 @@
-# Hospital QA System
+# Hospital Knowledge Assistant
 
 Question Answering System untuk data rumah sakit menggunakan OpenSearch, Sentence Transformers, dan Gemini.
 
@@ -15,12 +15,15 @@ Question Answering System untuk data rumah sakit menggunakan OpenSearch, Sentenc
 ```text
 project/
 │
+├── app.py
 ├── config.py
+├── docker-compose.yml
 ├── setup_opensearch.py
 ├── retrieval.py
 ├── rag.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── data/
 ```
 
 ## Instalasi
@@ -43,11 +46,13 @@ pip install -r requirements.txt
 Sebelum menjalankan aplikasi, sesuaikan terlebih dahulu nilai pada `config.py` dan `docker-compose.yml`.
 
 Pada `config.py` ganti:
-* `YOUR_GEMINI_API_KEY` dengan API Key Gemini milik Anda.
-* `YOUR_OPENSEARCH_PASSWORD` dengan password OpenSearch yang digunakan pada Docker Compose.
+
+- `YOUR_GEMINI_API_KEY` dengan API Key Gemini milik Anda.
+- `YOUR_OPENSEARCH_PASSWORD` dengan password OpenSearch yang digunakan pada Docker Compose.
 
 Pada `docker-compose.yml` ganti:
-* `OPENSEARCH_INITIAL_ADMIN_PASSWORD` dengan password OpenSearch Anda
+
+- `OPENSEARCH_INITIAL_ADMIN_PASSWORD` dengan password OpenSearch Anda
 
 ## Menjalankan OpenSearch
 
@@ -73,10 +78,12 @@ Proses ini akan:
 - Generate embeddings
 - Upload seluruh dokumen ke OpenSearch
 
-## Menjalankan QA System
+## Menjalankan Aplikasi
+
+Setelah OpenSearch dan knowledge base siap, jalankan aplikasi Streamlit:
 
 ```bash
-python rag.py
+streamlit run app.py
 ```
 
 Contoh pertanyaan:
@@ -86,6 +93,24 @@ Contoh pertanyaan:
 - Tagihan pasien yang belum lunas?
 - Siapa penanggung jawab pasien tertentu?
 
+## Arsitektur Sistem
+
+```text
+User
+ ↓
+Streamlit
+ ↓
+Retrieval
+ ↓
+OpenSearch
+ ↓
+Relevant Context
+ ↓
+Gemini
+ ↓
+Answer
+```
+
 ## Teknologi
 
 - Python
@@ -93,3 +118,5 @@ Contoh pertanyaan:
 - Docker
 - Sentence Transformers
 - Gemini API
+- Streamlit
+- Hugging Face

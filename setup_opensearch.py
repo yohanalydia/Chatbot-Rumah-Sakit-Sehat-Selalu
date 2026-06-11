@@ -328,6 +328,8 @@ def generate_join_documents(datasets):
             "doc_type": "dokter_departemen",
             "source_id": dokter["dokter_id"],
             "content": f"""
+            ID Dokter: {dokter['dokter_id']}
+            ID Departemen: {dokter['departemen_id']}
             Nama Dokter: {dokter['nama_dokter']}
             Spesialisasi: {dokter['spesialisasi']}
             Departemen: {departemen['nama_departemen']}
@@ -363,11 +365,15 @@ def generate_join_documents(datasets):
             "doc_type": "pasien_profile",
             "source_id": pasien["pasien_id"],
             "content": f"""
+            ID Pasien: {pasien['pasien_id']}
             Nama Pasien: {pasien['nama_pasien']}
             Status VIP: {'Ya' if pasien['vip_status'] else 'Tidak'}
+            ID Asuransi: {pasien['asuransi_id']}
             Asuransi: {nama_asuransi}
+            ID PJ: {pasien['pj_id']}
             Penanggung Jawab: {pj['nama_pj']}
             Hubungan: {pj['hubungan']}
+            ID Tim: {pasien['tim_id']}
             Tim Medis: {tim['nama_tim']}
             """
         })
@@ -395,6 +401,7 @@ def generate_join_documents(datasets):
             "doc_type": "tim_medis_detail",
             "source_id": tim["tim_id"],
             "content": f"""
+            ID Tim: {tim['tim_id']}
             Nama Tim: {tim['nama_tim']}
             Anggota Dokter:
             {', '.join(dokter_names)}
@@ -426,6 +433,8 @@ def generate_join_documents(datasets):
             "source_id": tagihan["tagihan_id"],
             "content": f"""
             ID Tagihan: {tagihan['tagihan_id']}
+            ID Pasien: {pasien['pasien_id']}
+            ID Asuransi: {tagihan['asuransi_id']}
             Nama Pasien: {pasien['nama_pasien']}
             Asuransi: {nama_asuransi}
             Total Biaya: {tagihan['total_biaya']}
@@ -452,6 +461,8 @@ def generate_join_documents(datasets):
             "source_id": pembayaran["pembayaran_id"],
             "content": f"""
             ID Pembayaran: {pembayaran['pembayaran_id']}
+            ID Pasien: {pasien['pasien_id']}
+            ID Tagihan: {tagihan['tagihan_id']}
             Nama Pasien: {pasien['nama_pasien']}
             Metode Pembayaran: {pembayaran['metode_pembayaran']}
             Jumlah Dibayar: {pembayaran['jumlah_dibayar']}
@@ -477,6 +488,9 @@ def generate_join_documents(datasets):
             "doc_type": "layanan_profile",
             "source_id": detail["detail_id"],
             "content": f"""
+            ID Pasien: {pasien['pasien_id']}
+            ID Tagihan: {tagihan['tagihan_id']}
+            ID Detail: {detail['detail_id']}
             Nama Pasien: {pasien['nama_pasien']}
             Jenis Layanan: {detail['jenis_layanan']}
             Biaya Layanan: {detail['biaya']}
@@ -506,6 +520,9 @@ def generate_join_documents(datasets):
             "doc_type": "bukti_pembayaran_profile",
             "source_id": bukti["bukti_id"],
             "content": f"""
+            ID Pasien: {pasien['pasien_id']}
+            ID Pembayaran: {pembayaran['pembayaran_id']}
+            ID Bukti: {bukti['bukti_id']}
             Nama Pasien: {pasien['nama_pasien']}
             Nomor Bukti: {bukti['nomor_bukti']}
             Tanggal Terbit: {bukti['tanggal_terbit']}
