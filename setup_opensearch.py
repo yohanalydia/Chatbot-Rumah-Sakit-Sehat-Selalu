@@ -666,7 +666,12 @@ def create_index(client):
 
                 "embedding": {
                     "type": "knn_vector",
-                    "dimension": 384
+                    "dimension": 384,
+                    "method": {
+                        "name": "hnsw",
+                        "space_type": "cosinesimil",
+                        "engine": "lucene"
+                    }
                 }
             }
         }
